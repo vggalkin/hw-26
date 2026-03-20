@@ -30,3 +30,10 @@
 
 ![Screenshot_20260320_151530.png](img/Screenshot_20260320_151530.png)
 
+### Задание 9
+
+![Screenshot_20260320_152325.png](img/Screenshot_20260320_152325.png)
+
+### Задание 10
+
+![Screenshot_20260320_153506.png](img/Screenshot_20260320_153506.png)

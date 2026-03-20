@@ -7,14 +7,10 @@ def find_files():
     path = input("Введите путь к директории: ")
     substring = input("Введите подстроку для поиска: ")
 
-    # Получение списка файлов
     try:
         files = os.listdir(path)
-
-        # Фильтрация файлов, содержащих подстроку
         matching_files = [f for f in files if substring in f]
 
-        # Вывод результата
         if matching_files:
             print("Найденные файлы:")
             for file in matching_files:
