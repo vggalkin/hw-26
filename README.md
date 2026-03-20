@@ -28,4 +28,5 @@
 
 ### Задание 8
 
+![Screenshot_20260320_151530.png](img/Screenshot_20260320_151530.png)
 
