@@ -22,4 +22,10 @@
 
 ![Screenshot_20260320_145557.png](img/Screenshot_20260320_145557.png)
 
+### Задание 7
+
+![Screenshot_20260320_150548.png](img/Screenshot_20260320_150548.png)
+
+### Задание 8
+
 
