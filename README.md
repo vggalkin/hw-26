@@ -8,4 +8,9 @@
 
 ### Задание 3
 
+![Screenshot_20260320_133817.png](img/Screenshot_20260320_133817.png)
+
+### Задание 4
+
+![Screenshot_20260320_134217.png](img/Screenshot_20260320_134217.png)
 
