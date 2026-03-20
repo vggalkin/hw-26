@@ -2,5 +2,10 @@
 
 ![Screenshot_20260320_125625.png](img/Screenshot_20260320_125625.png)
 
-### задание 2
+### Задание 2
+
+![Screenshot_20260320_133049.png](img/Screenshot_20260320_133049.png)
+
+### Задание 3
+
 
